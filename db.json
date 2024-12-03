@@ -1,5 +1,48 @@
 {
   "Language": "EN",
+  "Canada": {
+    "Ontario": {
+      "Industries": [
+        {
+          "IndustryID": 100,
+          "Contacts": [
+            {
+              "Name": "Alice Thompson",
+              "Office": "Ontario Trade Office",
+              "Title": "Trade Officer",
+              "Email": "alice.thompson@ontario.gov"
+            }
+          ]
+        },
+        {
+          "IndustryID": 677,
+          "Contacts": [
+            {
+              "Name": "John Doe",
+              "Office": "Ontario Export Services",
+              "Title": "Export Advisor",
+              "Email": "john.doe@ontarioexports.ca"
+            }
+          ]
+        }
+      ]
+    },
+    "Quebec": {
+      "Industries": [
+        {
+          "IndustryID": 1200,
+          "Contacts": [
+            {
+              "Name": "Marie Dupont",
+              "Office": "Quebec Ministry of Trade",
+              "Title": "Trade Specialist",
+              "Email": "marie.dupont@quebec.gov"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "Italy": {
     "Industries": [
       {
@@ -21,21 +64,6 @@
             "Office": "Italian Ministry of Trade",
             "Title": "Trade Specialist",
             "Email": "luca.bianchi@trade.gov.it"
-          }
-        ]
-      }
-    ]
-  },
-  "Canada": {
-    "Industries": [
-      {
-        "IndustryID": 677,
-        "Contacts": [
-          {
-            "Name": "Alice Thompson",
-            "Office": "Canadian Trade Commission",
-            "Title": "Export Advisor",
-            "Email": "alice.thompson@trade.gc.ca"
           }
         ]
       }
