@@ -1,87 +1,50 @@
-{
-  "Language": "EN",
-  "Canada": {
-    "Ontario": {
-      "Industries": [
-        {
-          "IndustryID": 100,
-          "Contacts": [
-            {
-              "Name": "Alice Thompson",
-              "Office": "Ontario Trade Office",
-              "Title": "Trade Officer",
-              "Email": "alice.thompson@ontario.gov"
-            }
-          ]
-        },
-        {
-          "IndustryID": 677,
-          "Contacts": [
-            {
-              "Name": "John Doe",
-              "Office": "Ontario Export Services",
-              "Title": "Export Advisor",
-              "Email": "john.doe@ontarioexports.ca"
-            }
-          ]
-        }
-      ]
-    },
-    "Quebec": {
-      "Industries": [
-        {
-          "IndustryID": 1200,
-          "Contacts": [
-            {
-              "Name": "Marie Dupont",
-              "Office": "Quebec Ministry of Trade",
-              "Title": "Trade Specialist",
-              "Email": "marie.dupont@quebec.gov"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "Italy": {
-    "Industries": [
+List :[
+  {
+    "Country": "Italy",
+    "IndustryID": 100,
+    "Contacts": [
       {
-        "IndustryID": 100,
-        "Contacts": [
-          {
-            "Name": "Omar Shah",
-            "Office": "The Embassy of Canada to Italy",
-            "Title": "Trade Commissioner Assistant",
-            "Email": "rome.td@international.gc.ca"
-          }
-        ]
-      },
-      {
-        "IndustryID": 1200,
-        "Contacts": [
-          {
-            "Name": "Luca Bianchi",
-            "Office": "Italian Ministry of Trade",
-            "Title": "Trade Specialist",
-            "Email": "luca.bianchi@trade.gov.it"
-          }
-        ]
+        "Name": "Omar Shah",
+        "Office": "The Embassy of Canada to Italy",
+        "Title": "Trade Commissioner Assistant",
+        "Email": "rome.td@international.gc.ca"
       }
     ]
   },
-  "USA": {
-    "Industries": [
+  {
+    "Country": "Italy",
+    "IndustryID": 1200,
+    "Contacts": [
       {
-        "IndustryID": 1200,
-        "Contacts": [
-          {
-            "Name": "John Smith",
-            "Office": "US Embassy in Canada",
-            "Title": "Economic Attaché",
-            "Email": "john.smith@usembassy.gov"
-          }
-        ]
+        "Name": "Luca Bianchi",
+        "Office": "Italian Ministry of Trade",
+        "Title": "Trade Specialist",
+        "Email": "luca.bianchi@trade.gov.it"
+      }
+    ]
+  },
+  {
+    "Country": "Canada",
+    "IndustryID": 677,
+    "Contacts": [
+      {
+        "Name": "Alice Thompson",
+        "Office": "Canadian Trade Commission",
+        "Title": "Export Advisor",
+        "Email": "alice.thompson@trade.gc.ca"
+      }
+    ]
+  },
+  {
+    "Country": "USA",
+    "IndustryID": 1200,
+    "Contacts": [
+      {
+        "Name": "John Smith",
+        "Office": "US Embassy in Canada",
+        "Title": "Economic Attaché",
+        "Email": "john.smith@usembassy.gov"
       }
     ]
   }
-}
+]
