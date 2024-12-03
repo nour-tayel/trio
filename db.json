@@ -1,5 +1,6 @@
 {
-"posts":[ {"Name":"Omar Shah",
+"posts":[ 
+  {"Name":"Omar Shah",
 "Office":"The Embassy of Canada to Italy",
 "Title":"Trade Commissioner Assistant",
 "Email":"rome.td@international.gc.ca"
@@ -8,3 +9,4 @@
 "Title":"Trade Commissioner Assistant",
 "Email":"rome.td@international.gc.ca"
 }]
+}
